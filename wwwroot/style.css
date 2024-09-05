@@ -1,0 +1,269 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 10px;
+    background: url("jellyfish-1058318.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    min-height: 95vh;
+}
+
+.container {
+    margin: 1.9rem;
+    font-size: 1.6rem;
+    color: white;
+    position: relative;
+}
+
+.main-content {
+    display: flex;
+    background-color: cadetblue;
+    justify-content: space-between;
+    position: fixed;
+    width: 97%;
+    top: 0;
+    z-index: 2;
+}
+
+.navigation ul li {
+    display: inline-block;
+    padding: 0.5rem;
+}
+
+    .navigation ul li a {
+        text-decoration: none;
+        color: white;
+        padding: 0.5rem;
+    }
+
+        .navigation ul li a:hover {
+            box-shadow: 0.5px 0.5px 0.5px 0.5px black;
+            background-color: green;
+        }
+
+.article {
+    display: flex;
+    margin-top: 1rem;
+    justify-content: space-between;
+}
+
+.para {
+    width: 45%;
+}
+
+.images {
+    margin-top: 2rem;
+    border: 1px solid white;
+    width: 45%;
+    height: 300px;
+}
+
+.contents {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer {
+    position: relative;
+}
+
+.footerpara {
+    position: fixed;
+    border: 1px solid wheat;
+    width: 97%;
+    text-align: center;
+    background-color: brown;
+    bottom: 0;
+} 
+
+.spanN {
+    color: orangered;
+}
+
+.spanS {
+    color: chartreuse;
+}
+
+.spanE {
+    color: yellow;
+}
+
+.form {
+    display: block;
+    margin-left: 40%;
+    margin-top: 2rem;
+}
+
+input {
+    display: block;
+    margin: 0.5rem;
+}
+
+textarea {
+    display: block;
+    margin: 0.5rem;
+}
+
+#btn {
+    margin: 0.5rem;
+}
+
+.para-new {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: orange;
+}
+
+.form-login {
+    border: 1px solid rgb(78, 235, 6);
+    padding: 1.5rem;
+    box-shadow: 0.5px 0.5px 0.5px 0.5px red;
+    margin-top: 15%;
+    margin-left: 45%;
+    width: 20%;
+}
+
+.para-login {
+    color: rgb(206, 37, 99);
+    font-weight: 700;
+    text-align: center;
+}
+
+#btn-login {
+    margin-left: 40%;
+    color: white;
+    background-color: green;
+}
+
+    #btn-login:hover {
+        background-color: brown;
+    }
+
+.input {
+    margin: 0.5rem;
+    margin-left: 2rem;
+}
+
+.footer {
+    position: relative;
+}
+
+.footerparalogin {
+    position: absolute;
+    border: 1px solid wheat;
+    top: 21rem;
+    width: 100%;
+    text-align: center;
+    background-color: brown;
+}
+
+/*@media(max-width:720px) and (min-width:320px) {
+    :root {
+        height: 275vh;
+    }
+
+    .container {
+        margin: 1.9rem;
+        font-size: 1.6rem;
+        color: white;
+    }
+
+    .main-content {
+        display: inline-block;
+        background-color: blue;
+        width: 92.5%;
+    }
+
+    .content-list {
+        margin-top: 40%;
+    }
+
+    .navigation ul li {
+        display: block;
+        padding: 0.5rem;
+    }
+
+    .contents {
+        display: block;
+        margin-top: 2rem;
+    }
+
+    .images {
+        margin-top: 2rem;
+        border: 1px solid white;
+        width: 100%;
+        height: 200px;
+    }
+
+    .article {
+        display: block;
+        margin-top: 1rem;
+    }
+
+    .para {
+        width: 100%;
+        margin-right: 2rem;
+        margin-top: 1rem;
+    }
+
+    .form {
+        margin-top: 2rem;
+        margin-left: 5%;
+    }
+
+    .navigation ul li a {
+        text-decoration: none;
+        color: white;
+        padding: 0.5rem;
+    }
+
+        .navigation ul li a:hover {
+            box-shadow: 0.5px 0.5px 0.5px 0.5px black;
+            background-color: green;
+        }*/
+
+/* login */
+
+
+/*.form-login {
+        border: 1px solid rgb(78, 235, 6);
+        padding: 1.5rem;
+        box-shadow: 0.5px 0.5px 0.5px 0.5px red;
+        width: 60%;
+        margin-top: 50%;
+        margin-left: 13%;
+    }
+
+    .para-login {
+        color: rgb(206, 37, 99);
+        font-weight: 700;
+        text-align: center;
+    }
+
+    #btn-login {
+        color: white;
+        background-color: green;
+    }
+
+        #btn-login:hover {
+            background-color: brown;
+        }
+
+    .input {
+        margin: 0.5rem;
+    }
+
+    .footerparalogin {
+        border: 1px solid wheat;
+        margin-bottom: 10rem;
+        width: 100%;
+        text-align: center;
+        background-color: brown;
+    }
+}*/

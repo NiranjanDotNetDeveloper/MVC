@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\NewProjectOnMVCFullStack.bundle.scp.css",
+      "PackagePath": "staticwebassets\\NewProjectOnMVCFullStack.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\aquarium-1359988.jpg",
+      "PackagePath": "staticwebassets\\aquarium-1359988.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\candy-1327973.jpg",
+      "PackagePath": "staticwebassets\\candy-1327973.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\candy-cane-3-1558704.jpg",
+      "PackagePath": "staticwebassets\\candy-cane-3-1558704.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\chiken.jfif",
+      "PackagePath": "staticwebassets\\chiken.jfif"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\cloths.jfif",
+      "PackagePath": "staticwebassets\\cloths.jfif"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\demo.js",
+      "PackagePath": "staticwebassets\\demo.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\electronics.jfif",
+      "PackagePath": "staticwebassets\\electronics.jfif"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\image.jpg",
+      "PackagePath": "staticwebassets\\image.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\jellyfish-1058318.jpg",
+      "PackagePath": "staticwebassets\\jellyfish-1058318.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\jellyfish-1459351.jpg",
+      "PackagePath": "staticwebassets\\jellyfish-1459351.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\login.html",
+      "PackagePath": "staticwebassets\\login.html"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\lying-puppies-1377990.jpg",
+      "PackagePath": "staticwebassets\\lying-puppies-1377990.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\puppy-1367640.jpg",
+      "PackagePath": "staticwebassets\\puppy-1367640.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\puppy-2-1404644.jpg",
+      "PackagePath": "staticwebassets\\puppy-2-1404644.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\selfridges-2-1470748.jpg",
+      "PackagePath": "staticwebassets\\selfridges-2-1470748.jpg"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "D:\\NewUdemy\\NewProjectOnMVCFullStack\\wwwroot\\vege.jfif",
+      "PackagePath": "staticwebassets\\vege.jfif"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.NewProjectOnMVCFullStack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.NewProjectOnMVCFullStack.props",
+      "PackagePath": "build\\NewProjectOnMVCFullStack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.NewProjectOnMVCFullStack.props",
+      "PackagePath": "buildMultiTargeting\\NewProjectOnMVCFullStack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.NewProjectOnMVCFullStack.props",
+      "PackagePath": "buildTransitive\\NewProjectOnMVCFullStack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

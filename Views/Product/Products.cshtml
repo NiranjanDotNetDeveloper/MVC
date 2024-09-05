@@ -1,0 +1,72 @@
+﻿@model IEnumerable<NewProjectOnMVCFullStack.Models.Products>
+
+@{
+    ViewData["Title"] = "Products";
+}
+<style>
+    .center {
+        text-align: center;
+    }
+
+    .box {
+        margin-top: 10%;
+    }
+
+    .tablenew {
+        border: 1px solid white;
+        color: white;
+        margin-left: 40%;
+    }
+
+    tr, th, td {
+        border: 1px solid white;
+    }
+
+    colorwhite {
+        color: white;
+    }
+    a{
+        color:white;
+    }
+</style>
+<section class="box">
+<p>
+        <h1 class="center">Products</h1>
+</p>
+    <table class="tablenew">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.QtyAvailable)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QtyAvailable)
+            </td>
+            <td>
+                <a asp-action="UpdateProducts" asp-route-id="@item.CategoryId">Edit</a> |
+                <a asp-action="AddProducts" asp-route-id="@item.CategoryId">Create</a> |
+                <a asp-action="DeleteProducts" asp-route-id="@item.CategoryId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</section>

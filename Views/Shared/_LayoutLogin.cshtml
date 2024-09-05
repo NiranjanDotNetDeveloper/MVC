@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NSE</title>
+    <link rel="stylesheet" href="~/style.css" />
+</head>
+<body>
+    <div class="container">
+        <main class="main-content">
+            <section class="logo">
+                <h1><span class="spanN">N</span><span class="spanS">S</span><span class="spanE">E</span></h1>
+            </section>
+            <nav class="navigation">
+                <ul>
+                    <li><a href="/">Login</a></li>
+                    <li><a href="register">Register</a></li>
+                    <li><a href="logout">Logout</a></li>
+                </ul>
+            </nav>
+        </main>
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+       <footer class="footer">
+            <p class="footerpara">All the rights are reserved &copy by NS pvt ltd;</p>
+        </footer>
+    </div>
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿@model NewProjectOnMVCFullStack.Models.Categories
+
+@{
+    ViewData["Title"] = "UpdateCategory";
+}
+@await Html.PartialAsync("UpdateCategoryPost",Model.CategoryId)
+<style>
+    .center {
+        text-align: center;
+        
+    }
+
+    .box {
+        margin-left: 43%;
+        color: white;
+    }
+
+    .marginright {
+        margin-right: 2%;
+    }
+</style>
+<h1 class="center">UpdateCategory</h1>
+<div class="row box">
+    <div class="col-md-4">
+        <form asp-action="UpdateCategoryPost" asp-controller="Category" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CategoryId" />
+            <div class="form-group">
+                <label asp-for="CategoryName" class="control-label"></label>
+                <input asp-for="CategoryName" class="form-control" />
+                <span asp-validation-for="CategoryName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>

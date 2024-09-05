@@ -1,0 +1,52 @@
+﻿@model NewProjectOnMVCFullStack.Models.Products
+
+@{
+    ViewData["Title"] = "UpdateProducts";
+}
+@await Html.PartialAsync("UpdateProductsPost",Model.CategoryId)
+<style>
+    .center {
+        text-align: center;
+    }
+
+    .box {
+        margin-left: 43%;
+        color: white;
+    }
+
+    .marginright {
+        margin-right: 2%;
+    }
+</style>
+<h1 class="center">UpdateCategory</h1>
+<hr />
+<div class="row box">
+    <div class="col-md-4">
+        <form asp-action="UpdateProductsPost" asp-controller="Product" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="CategoryId" />
+            <div class="form-group">
+                <label asp-for="ProductName" class="control-label"></label>
+                <input asp-for="ProductName" class="form-control" />
+                <span asp-validation-for="ProductName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="QtyAvailable" class="control-label"></label>
+                <input asp-for="QtyAvailable" class="form-control" />
+                <span asp-validation-for="QtyAvailable" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

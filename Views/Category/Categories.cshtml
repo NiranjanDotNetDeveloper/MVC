@@ -1,0 +1,59 @@
+﻿@model IEnumerable<NewProjectOnMVCFullStack.Models.Categories>
+
+@{
+    ViewData["Title"] = "Categories";
+}
+<style>
+    .center{
+        text-align:center;
+    }
+    .box{
+        margin-top: 10%;
+    }
+    .tablenew {
+        border: 1px solid white;
+        color:white;
+        margin-left: 40%;
+    }
+
+    tr, th, td {
+        border: 1px solid white;
+    }
+    colorwhite{
+        color:white;
+    }
+
+    a {
+        color: white;
+    }
+</style>
+<section class="box">
+<p>
+        <h1 class="center">Categories</h1>
+      
+</p>
+<table class="tablenew">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+                        <a asp-action="UpdateCategory" asp-route-id="@item.CategoryId">Edit</a> |
+                        <a asp-action="AddCategories" asp-route-id="@item.CategoryId">Create</a> |
+                        <a asp-action="DeleteCategory" asp-route-id="@item.CategoryId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+</section>
